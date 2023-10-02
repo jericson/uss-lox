@@ -14,17 +14,15 @@ You will need:
 * One 6-sided die
 * A standard deck of 52 cards
 * A copy of these rules
-* Some way to keep score
 
-Shuffle the cards and place the deck near at hand.
+Shuffle the cards. Deal out a three by three grid of face down cards to
+represent the Pacific Ocean. keep the rest of the deck near at hand.
 
 ## Turn order
 
-1. **Convoy encounter**&mdash;Roll the die and find the associated
-   convoy on the convoy table below. _After the first turn_, if the
-   convoy has already been marked as encountered, the patrol is
-   over. 
-2. **Sightings**&mdash;Draw 6 cards from the deck into your hand and
+1. **Encounter convoy**&mdash;Flip any card in the 3x3 grid. The card
+   represents the convoy you may chose to attack.
+2. **Up periscope**&mdash;Draw 6 cards from the deck into your hand and
    draw two cards face down on the table to form half of the crib.
 3. **Attack decision**&mdash;Decide whether to attack. If the
    situation is unfavorable:
@@ -79,17 +77,6 @@ The average patrol sunk 3298 tons. The _USS Tang_ sank 96,628 tons in
 torpedo on October 24, 1944. _USS Flasher_ sank 100,131 tons in 6
 patrols (16,689 per patrol) and was starting her seventh when the war
 ended.
-
-## Convoy table
-
-| Convoy | Type              | Tonnage | Crib    |
-| ------ | ----              | ------- | ------  |
-| 1      | Transport         | 7,000   |  Escort |
-| 2      | Aircraft Ferry    | 8,000   |  3,000  |
-| 3      | Cargo             | 7,000   |  Escort |
-| 4      | Tanker            | 5,000   |  6,000  |
-| 5      | Passenger-Cargo   | 7,000   |  Escort |
-| 6      | Converted Gunboat | 1,000   | 10,000  |
 
 ## Cribbage scoring
 
