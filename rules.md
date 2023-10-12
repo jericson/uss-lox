@@ -42,11 +42,12 @@ enemy forces (4b) or the player decides to return to port (5).
     on the table.
 
 3. **Torpedoes away!**&mdash;Determine if you sank the ship based on
-   whether your cards scored any point according to the rules of
+   whether your cards scored at least one point according to the rules of
    cribbage.
 
-    a. If the revealed ship is a Jack, it's immediately sunk with the
-    USS Lox's deck gun. No torpedoes are expended.
+    a. If the revealed ship is a jack, it's immediately sunk with the
+    USS Lox's deck gun. No torpedoes are expended. (This is "two for
+    his heals".)
 
     b. Using the revealed ship card and all torpedo cards, the ship is
      sunk if there is at least one: 
@@ -54,7 +55,8 @@ enemy forces (4b) or the player decides to return to port (5).
      * pair
      * set of cards that add up to 15
      * run of three or more cards (Ace is low and the cards need not match suit.)
-     * all four cards are of the same suit
+     * four cards are of the same suit
+     * a jack played as a torpedo match the suit of the ship card
      
    c. If there is no way to score any points with the ship and torpedo
    cards, the ship escapes without damage and the USS Lox must attempt
@@ -144,6 +146,14 @@ damage or attack (4b).
 If you sink a queen ship (3b), you may decide to flip another ship
 from the deck as an opportunity target. You can decide whether or not
 to attack (2) as if it were a normal ship.
+
+### Second patrol
+
+After returning to port, deal another 24 cards from the deck, lay out
+the ocean grid and play out another patrol. If there are fewer than 24
+cards, you may chose to leave some in the deck. If you fail an attack
+(4b) and there are no more cards left in the deck, the **USS Lox is
+sunk**.
 
 # Alpha Version
 
