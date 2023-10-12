@@ -56,7 +56,7 @@ enemy forces (4b) or the player decides to return to port (5).
      * set of cards that add up to 15
      * run of three or more cards (Ace is low and the cards need not match suit.)
      * four cards are of the same suit
-     * a jack played as a torpedo match the suit of the ship card
+     * jack played as a torpedo that matches the suit of the ship card (his nob)
      
    c. If there is no way to score any points with the ship and torpedo
    cards, the ship escapes without damage and the USS Lox must attempt
