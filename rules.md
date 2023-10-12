@@ -4,10 +4,10 @@ During the second world war, submarines came into their own as
 instruments of war. In the Pacific theater, US submarines disrupted
 Japanese shipping of supplies, material and personnel. Unlike the
 German wolf pack strategy, US submarine captains usually operated
-independently. _USS Lox_ follows a (fictional) Salmon-class boat on
-patrol off the coast of Japan. You are the captain responsible for 58
-officers and enlisted submariners. Your mission is to sink as much
-enemy shipping as possible.
+independently. As the captain of the _USS Lox_, a (fictional)
+Salmon-class boat, you are responsible for 58 officers and enlisted
+submariners. Your mission is to disrupt Japanese war operations by
+sinking as much shipping as possible.
 
 [![USS Salmon](uss-salmon.jpg)](http://www.navsource.org/archives/08/08182.htm)
 
@@ -15,7 +15,7 @@ enemy shipping as possible.
 
 You will need:
 
-* a standard deck of 52 cards and
+* a standard deck of cards and
 * a copy of these rules.
 
 Shuffle the cards. Deal 24 cards face down to represent your torpedo
@@ -161,8 +161,8 @@ This is an alpha version of this game. If you try it out, please send
 me an email at jon@jlericson.com. It would help if you answered a few
 questions:
 
-1. Were you able to read the rules and play at least one game? If not,
-   what blocked you from making progress?
+1. Did you play at least once? If not, what blocked you from making
+   progress?
    
 2. Did you win on your first play?
 
@@ -171,9 +171,19 @@ questions:
    
 4. Approximately how long did you take reading the rules and playing?
 
-5. What, if anything, did you learn from the experience?
+5. What will you take away from the experience?
 
 
+# Acknowledgments
+
+I was inspired by the simplicity of [_Battle Card: Market
+Garden_](https://boardgamegeek.com/boardgame/377068/battle-card-market-garden),
+which was designed by Nils Johansson and David Thompson, which I
+[greatly
+enjoyed](https://jlericson.com/2023/01/20/market_garden.html).
+
+My interest in the subject matter came from Sid Meier's _Silent
+Service_, which was likely the first computer game I ever bought.
 ![](MacArthur_map.jpg)
 
 
