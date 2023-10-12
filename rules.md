@@ -145,6 +145,25 @@ If you sink a queen ship (3b), you may decide to flip another ship
 from the deck as an opportunity target. You can decide whether or not
 to attack (2) as if it were a normal ship.
 
+# Alpha Version
+
+This is an alpha version of this game. If you try it out, please send
+me an email at jon@jlericson.com. It would help if you answered a few
+questions:
+
+1. Were you able to read the rules and play at least one game? If not,
+   what blocked you from making progress?
+   
+2. Did you win on your first play?
+
+3. Did you try again with any advanced rules? If so, which rules and
+   were they easy to play?
+   
+4. Approximately how long did you take reading the rules and playing?
+
+5. What, if anything, did you learn from the experience?
+
+
 ![](MacArthur_map.jpg)
 
 
