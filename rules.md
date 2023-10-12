@@ -73,9 +73,9 @@ enemy forces (4b) or the player decides to return to port (5).
    position. You may either:
       * Discard as many cards from your torpedo deck as shown on the
         escort card. (Ace is 1 and face cards are 10). Place them face
-        down at the bottom of the . If you don't have enough torpedoes
-        to discard, **the USS Lox has been lost at sea with all
-        crew**.
+        down at the bottom of the deck. If you don't have enough
+        torpedoes to discard, **the USS Lox has been lost at sea with
+        all crew**.
       * Attempt an attack on the escort using procedure in (3)
         **Torpedoes away!**. If the attack succeeds place the escort
         in the score pile. If the attack fails, **the USS Lox has been
