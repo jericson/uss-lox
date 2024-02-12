@@ -18,19 +18,20 @@ You will need:
 * a standard deck of cards and
 * a copy of these rules.
 
-Shuffle the cards. Deal 24 cards face down to represent your torpedo
-supply and set aside the rest of the deck. From the torpedo supply,
-deal (face down) a three by three grid of cards to represent the
-Pacific Ocean.
+Shuffle the cards. Deal 24 cards face down to represent your supply
+and set aside the rest of the deck. From your supply, deal (face down)
+a grid of cards to represent the Pacific Ocean. **For the your first
+game, lay out a 3x3 grid.** In subsequent patrols captains should
+decide how many resources to expend searching for targets.
 
 ## Turn order
 
 Each turn represents an encounter with an enemy convoy. The game ends
-when the USS Lox runs out of cards in the torpedo deck, is sunk by
+when the USS Lox runs out of cards in the supply deck, is sunk by
 enemy forces (4b) or the player decides to return to port (5).
 
-1. **Up periscope**&mdash;Flip any card in the 3x3 grid. The card
-   represents the ship you may chose to attack.
+1. **Up periscope**&mdash;Flip any card in the grid. The card
+   represents a ship you may chose to attack.
 
 2. **Attack decision**&mdash;Captain decides whether the situation is
    favorable.
@@ -38,8 +39,9 @@ enemy forces (4b) or the player decides to return to port (5).
     a. If you decide not to attack, discard the ship and continue the
     war patrol with another **up periscope** step.
    
-    b. Otherwise, place 0 to 3 cards from your torpedo supply face down
-    on the table.
+    b. Otherwise, decide how many torpedoes to fire in spread
+    formation. Place up to three cards from your supply face down on
+    the table.
 
 3. **Torpedoes away!**&mdash;Determine if you sank the ship based on
    whether your cards scored at least one point according to the rules of
@@ -53,10 +55,13 @@ enemy forces (4b) or the player decides to return to port (5).
      sunk if there is at least one: 
      
      * pair
-     * set of cards that add up to 15
+     * set of cards that add up to 15 (Face cards are worth 10.)
      * run of three or more cards (Ace is low and the cards need not match suit.)
      * four cards are of the same suit
      * jack played as a torpedo that matches the suit of the ship card (his nob)
+     
+     You must use all the torpedoes even if there is a hit before the
+     final torpedo is revealed.
      
    c. If there is no way to score any points with the ship and torpedo
    cards, the ship escapes without damage and the USS Lox must attempt
@@ -69,17 +74,17 @@ enemy forces (4b) or the player decides to return to port (5).
    pile.**
    
    b. If the attack failed, **discard the ship and draw another ship
-   from the deck**. It is an enemy escort ship barring down on your
+   from the set-aside deck**. It is an enemy escort ship barring down on your
    position. You may either:
-      * Discard as many cards from your torpedo deck as shown on the
-        escort card. (Ace is 1 and face cards are 10). Place them face
-        down at the bottom of the deck. If you don't have enough
-        torpedoes to discard, **the USS Lox has been lost at sea with
-        all crew**.
-      * Attempt an attack on the escort using procedure in (3)
-        **Torpedoes away!**. If the attack succeeds place the escort
-        in the score pile. If the attack fails, **the USS Lox has been
-        destroyed**.
+      * **Escape**&mdash;Discard as many cards from your torpedo deck
+        as shown on the escort card. (Ace is 1 and face cards are
+        10). Place them face down at the bottom of the deck. If you
+        don't have enough torpedoes to discard, **the USS Lox has been
+        lost at sea with all crew**.
+      * **Attack**&mdash;Attempt an attack on the escort using
+        procedure in (3) **Torpedoes away!**. If the attack succeeds
+        place the escort in the score pile. If the attack fails, **the
+        USS Lox has been destroyed**.
 
 5. **Debrief**&mdash;Decide whether to return to port or continue on
    patrol.
@@ -129,12 +134,6 @@ and place a card from the deck (face down) in your sunk ship pile. At
 the end of the patrol, naval intelligence estimates their tonnage and
 you can score these cards as normal.
 
-### Plan your patrol
-
-When laying out the grid of cards in the ocean, you may place as many
-as you like. More cards represent longer patrols, but you'll have
-fewer torpedoes to fire. Shorter patrols allow captains to use more
-torpedoes.
 
 ### King ships
 
@@ -184,6 +183,8 @@ enjoyed](https://jlericson.com/2023/01/20/market_garden.html).
 
 My interest in the subject matter came from Sid Meier's _Silent
 Service_, which was likely the first computer game I ever bought.
+
+
 ![](MacArthur_map.jpg)
 
 
